@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CV Claudio Baschieri</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 2rem auto; padding: 2rem; }
+    h1 { color: #1e3a8a; border-bottom: 3px solid #fbbf24; padding-bottom: 0.5rem; }
+    h2 { color: #1e3a8a; margin-top: 2rem; }
+    table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+    th, td { padding: 0.8rem; text-align: left; border-bottom: 1px solid #eee; }
+    th { background: #f8f9fa; font-weight: 600; }
+    .cv-table td { vertical-align: top; }
+    .highlight { color: #f59e0b; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Claudio Baschieri</h1>
+  <p><strong>Meccatronico Freelance</strong> | Milano, Lombardia | +39 333 1234567 | claudio@baschieri.me</p>
+  
+  <table class="cv-table">
+    <tr><th>FORMAZIONE</th><td>Laurea Magistrale Ingegneria Meccatronica<br>Politecnico di Milano • 2023<br><span class="highlight">Voto: 108/110</span><br>Tesi: "Controllo adattivo bracci robotici"</td></tr>
+    <tr><th>ESPERIENZA</th><td><strong>Freelance Meccatronico • 2024-Oggi</strong><br>- 15+ PLC Siemens programmati<br>- Automazione linee packaging<br>- <span class="highlight">ROI medio progetti: 280%</span><br><br><strong>Stage Automazione Industriale</strong><br>Azienda XYZ, Reggio Emilia • 2022-2023</td></tr>
+    <tr><th>COMPETENZE TECNICHE</th><td>PLC: <span class="highlight">Siemens TIA Portal (95%)</span>, Allen Bradley (85%)<br>CAD: <span class="highlight">SolidWorks CSWP (90%)</span>, Fusion 360 (85%)<br>Robotica: <span class="highlight">Universal Robots Certified (92%)</span><br>IoT: MQTT, Node-RED, OPC UA<br>Simulazione: Ansys, MATLAB/Simulink</td></tr>
+    <tr><th>LINGUE</th><td>Italiano: <span class="highlight">Madrelingua</span><br>Inglese: <span class="highlight">C1 (Cambridge)</span><br>Tedesco: B1</td></tr>
+    <tr><th>CERTIFICAZIONI</th><td><span class="highlight">Siemens TIA Portal Certified (2025)</span><br>Universal Robots Academy (2024)<br>SolidWorks CSWP (2023)<br>ISO 9001 Internal Auditor</td></tr>
+  </table>
+</body>
+</html>
